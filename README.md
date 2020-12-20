@@ -12,6 +12,10 @@ to use this exercise you need to import the .java files to your IDE and now you 
 we have here three classes: NodeData, Graph_DS, and Graph_Algo. there is an interface to each class that elaborates on each function.
 in the implementation of each function, some comments will explain how the function works.
 
+## Linkes
+
+[BFS Algorithem](https://en.wikipedia.org/wiki/Breadth-first_search)
+
 ## License
 
 this exercise made by Moriya Bitton, email address - moria1109@gmail.com
