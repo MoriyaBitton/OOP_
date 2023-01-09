@@ -2,10 +2,10 @@
 
 ###### Ariel University, Israel || Semester A 2020-2021
 
-##### Made by: 
+### Made by: 
 
-Moriya Bitton
+Moriya Bitton 
 
-##### Email address: 
+### Email address: 
 
 moria1109@gmail.com
