@@ -1,6 +1,6 @@
 # OOP Tasks
 
-###### Ariel University, Israel || Semester A - Winter 2020-2021
+###### Ariel University, Israel || Semester A 2020-2021
 
 ##### Made by: 
 
